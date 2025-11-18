@@ -1,0 +1,2 @@
+STATES_URL=https://opensky-network.org/api/states/all
+FLIGHTS_AC_URL=https://opensky-network.org/api/flights/aircraft
